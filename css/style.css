@@ -475,6 +475,7 @@ a {
 
 .resume-item {
   float: left;
+  width:50%;
   padding: 10px;
   padding-left:10px;
   padding-right:10px;
