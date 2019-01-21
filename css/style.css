@@ -474,6 +474,7 @@ a {
       transition: none; } }
 
 .resume-item {
+  float: left;
   padding: 40px;
   background: #fff;
   -webkit-transition: .3s all ease;
